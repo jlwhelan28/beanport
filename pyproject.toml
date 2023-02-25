@@ -8,6 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.9"
 beancount = "^2.3.5"
+attrs = "^22.2.0"
 
 [tool.poetry.dev-dependencies]
 
